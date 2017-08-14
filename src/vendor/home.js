@@ -50,4 +50,60 @@ $(function () {
     })
   })
 
+
+// $('.module3_bottom active').css
+  $('.progress_bar span').each(function (i) {
+    if($(this).width() == $(this).parent().width()){
+      $(this).parent().siblings('.hot_product_btn').html(`<span>已满标</span>`);
+      $(this).parent().siblings('.Newbie_center_invest').html(`<span>已满标</span>`);
+      $(this).parent().parent().siblings('.module4_right_btn').html(`<span>已满标</span>`);
+
+      $(this).parent().siblings('.hot_product_btn').find('span').css({
+        display:'inline-block',
+        width:'185px',
+        height:'50px',
+        background:'#e2e2e2',
+        color:'#fff',
+        fontSize:'18px',
+        textAlign:'center',
+        lineHeight:'50px'
+      });
+      $(this).parent().siblings('.Newbie_center_invest').find('span').css({
+        display:'inline-block',
+        width:'185px',
+        height:'50px',
+        background:'#e2e2e2',
+        color:'#fff',
+        fontSize:'18px',
+        textAlign:'center',
+        lineHeight:'50px'
+      });
+      $(this).parent().parent().siblings('.module4_right_btn').find('span').css({
+        display:'inline-block',
+        width:'185px',
+        height:'50px',
+        background:'#e2e2e2',
+        color:'#fff',
+        fontSize:'18px',
+        textAlign:'center',
+        lineHeight:'50px'
+      });
+    }
+  })
+
+
+  var Tops = $('#goTop');
+  $(window).scroll(function (){
+    var st = $(this).scrollTop();
+    // 根据滚动距离显示和隐藏楼梯导航
+    if(st >= 500){
+      Tops.show();
+    } else {
+      Tops.hide();
+    }
+  });
+  Tops.on('click',function () {
+    $('html,body').animate({scrollTop:0}, 500);
+  })
+
 })

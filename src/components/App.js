@@ -53,9 +53,7 @@ var App = React.createClass({
                   <ul className="nav_right">
                     <li className="active"><a href="#">首页</a></li>
                     <li><a href="#">我要投资</a></li>
-                    <li><a href="#">我要借款</a></li>
                     <li><a href="#">新手引导</a></li>
-                    <li><a href="#">积分商城</a></li>
                     <li><a href="#">我的账户</a></li>
                   </ul>
                 </div>
@@ -128,7 +126,7 @@ var App = React.createClass({
                   </div>
                   <div className="module2">
                     <div className="module2_content">
-                      <span className="red_belt"><img src="src/images/shyumi/module2_1.png" alt=""/><em>新手专享</em></span>
+                      <div className="red_belt"><img src="src/images/shyumi/module2_1.png" alt=""/><em>新手专享</em></div>
                       <div className="Newbie_left">
                         <p className="Newbie_left_fav"><img src="src/images/shyumi/module2_2.png" alt=""/><span>单笔限额5万元</span></p>
                         <ul className="Newbie_left_earnings">
@@ -195,10 +193,10 @@ var App = React.createClass({
                   </div>
                   <div className="module_common module4">
                     <div className="series">
-                      <div><h1>速盈系列</h1><h4>3个月内</h4></div>
+                      <div><h1>3个月内</h1></div>
                     </div>
                     <div className="module4_right">
-                      <p className="module4_right_title">更多 ></p>
+                      <p className="module4_right_title"><a href="#">更多 ></a></p>
                       <ul className="module4_right_article">
                         <li>
                           <h2>名车系列：安胜2号3M第20期</h2>
@@ -225,10 +223,10 @@ var App = React.createClass({
                   </div>
                   <div className="module_common module5">
                     <div className="series">
-                      <div><h1>易盈系列</h1><h4>6个月内</h4></div>
+                      <div><h1>6个月内</h1></div>
                     </div>
                     <div className="module4_right">
-                      <p className="module4_right_title">更多 ></p>
+                      <p className="module4_right_title"><a href="#">更多 ></a></p>
                       <ul className="module4_right_article">
                         <li>
                           <h2>名车系列：安技4号6M第5期</h2>
@@ -255,10 +253,10 @@ var App = React.createClass({
                   </div>
                   <div className="module_common module6">
                     <div className="series">
-                      <div><h1>稳盈系列</h1><h4>12个月内</h4></div>
+                      <div><h1>12个月内</h1></div>
                     </div>
                     <div className="module4_right">
-                      <p className="module4_right_title">更多 ></p>
+                      <p className="module4_right_title"><a href="#">更多 ></a></p>
                       <ul className="module4_right_article">
                         <li>
                           <h2>名企系列：安技4号12M第9期A</h2>
@@ -291,12 +289,12 @@ var App = React.createClass({
                         <dd className="module7_left_article">
                           <h4>今夜，外滩为中嵘投集团亮灯</h4>
                           <p>今夜，外滩为中嵘投集团亮起了璀璨明灯，展示集团强大的品牌公信力。“中嵘投”三个红色大字，整晚在蓝宝石大屏幕循环滚动播放，灿烂了陆家嘴的夜空。整个北外滩地区都可以清晰地看到中嵘投集团的骄人业绩，见证中嵘投集团在上半年度取得的累累硕果。</p>
-                          <h5>更多 ></h5>
+                          <h5><a href="#">更多 ></a></h5>
                         </dd>
                       </dl>
                     </li>
                     <li className="module7_right">
-                      <h3><span>官方公告</span><b>更多 ></b></h3>
+                      <h3><span>官方公告</span><a href="#">更多 ></a></h3>
                       <a href="#"><span>关于安卓版App上线通知</span><em>2017-03-13</em></a>
                       <a href="#"><span>鱼米金服关于更换客服电话的公告</span><em>2017-03-13</em></a>
                       <a href="#"><span>2017-2-16鱼米金服系统升级公告</span><em>2017-03-13</em></a>
@@ -304,50 +302,54 @@ var App = React.createClass({
                       <a href="#"><span>鱼米庆元宵，有“鱼”有“米”喜…</span><em>2017-03-13</em></a>
                     </li>
                   </ul>
-                  <div className="module8">
-                    <h3 className="module8_top">合作伙伴</h3>
-                    <ul className="module8_bottom">
-                      <li><a href="http://www.cbhb.com.cn/bhbank/S101/index.htm" target="_blank"><img src="src/images/shyumi/module8_1.jpg" alt=""/></a></li>
-                      <li><a href="http://www.xinhuanet.com/" target="_blank"><img src="src/images/shyumi/module8_2.png" alt=""/></a></li>
-                      <li><a href="http://www.xhfyg.com/index" target="_blank"><img src="src/images/shyumi/module8_3.png" alt=""/></a></li>
-                      <li><a href="https://www.fadada.com/" target="_blank"><img src="src/images/shyumi/module8_4.png" alt=""/></a></li>
-                      <li><a href="http://www.wdzj.com/" target="_blank"><img src="src/images/shyumi/module8_5.png" alt=""/></a></li>
-                      <li><a href="http://shanghai.qfang.com/" target="_blank"><img src="src/images/shyumi/module8_6.jpg" alt=""/></a></li>
-                      <li><a href="https://www.tops001.com/" target="_blank"><img src="src/images/shyumi/module8_7.jpg" alt=""/></a></li>
-                      <li><a href="http://www.spider.com.cn/" target="_blank"><img src="src/images/shyumi/module8_8.jpg" alt=""/></a></li>
-                      <li><a href="https://www.fuiou.com/" target="_blank"><img src="src/images/shyumi/module8_9.jpg" alt=""/></a></li>
-                    </ul>
-                  </div>
                 </div>
               </section>
+
+              <article className="articles">
+                <div className="module8">
+                  <h3 className="module8_top">合作伙伴</h3>
+                  <ul className="module8_bottom">
+                    <li><a href="http://www.cbhb.com.cn/bhbank/S101/index.htm" target="_blank"><img src="src/images/shyumi/module8_1.jpg" alt=""/></a></li>
+                    <li><a href="http://www.xinhuanet.com/" target="_blank"><img src="src/images/shyumi/module8_2.png" alt=""/></a></li>
+                    <li><a href="http://www.xhfyg.com/index" target="_blank"><img src="src/images/shyumi/module8_3.png" alt=""/></a></li>
+                    <li><a href="https://www.fadada.com/" target="_blank"><img src="src/images/shyumi/module8_4.png" alt=""/></a></li>
+                    <li><a href="http://www.wdzj.com/" target="_blank"><img src="src/images/shyumi/module8_5.png" alt=""/></a></li>
+                    <li><a href="http://shanghai.qfang.com/" target="_blank"><img src="src/images/shyumi/module8_6.jpg" alt=""/></a></li>
+                    <li><a href="https://www.tops001.com/" target="_blank"><img src="src/images/shyumi/module8_7.jpg" alt=""/></a></li>
+                    <li><a href="http://www.spider.com.cn/" target="_blank"><img src="src/images/shyumi/module8_8.jpg" alt=""/></a></li>
+                    <li><a href="https://www.fuiou.com/" target="_blank"><img src="src/images/shyumi/module8_9.jpg" alt=""/></a></li>
+                  </ul>
+                </div>
+              </article>
 
               <footer>
                 <div className="footer_bar">
                   <ul className="footer_left">
                     <li>
-                      <h3>关于鱼米金服</h3>
-                      <p>公司简介</p>
-                      <p>管理团队</p>
-                      <p>资质证书</p>
-                      <p>联系我们</p>
+                      <h3>关于鱼米</h3>
+                      <p><img src="src/images/shyumi/footer_4.png" alt=""/><a href="#">公司简介</a></p>
+                      <p><img src="src/images/shyumi/footer_4.png" alt=""/><a href="#">管理团队</a></p>
+                      <p><img src="src/images/shyumi/footer_4.png" alt=""/><a href="#">资质证书</a></p>
+                      <p><img src="src/images/shyumi/footer_4.png" alt=""/><a href="#">联系我们</a></p>
                     </li>
                     <li>
                       <h3>安保保障</h3>
-                      <p>本息保障</p>
-                      <p>风控控制</p>
-                      <p>银行存管</p>
+                      <p><img src="src/images/shyumi/footer_4.png" alt=""/><a href="#">本息保障</a></p>
+                      <p><img src="src/images/shyumi/footer_4.png" alt=""/><a href="#">风控控制</a></p>
+                      <p><img src="src/images/shyumi/footer_4.png" alt=""/><a href="#">银行存管</a></p>
                     </li>
                     <li>
                       <h3>帮助中心</h3>
-                      <p>资费说明</p>
-                      <p>常见问题</p>
-                      <p>法律法规</p>
+                      <p><img src="src/images/shyumi/footer_4.png" alt=""/><a href="#">资费说明</a></p>
+                      <p><img src="src/images/shyumi/footer_4.png" alt=""/><a href="#">常见问题</a></p>
+                      <p><img src="src/images/shyumi/footer_4.png" alt=""/><a href="#">法律法规</a></p>
                     </li>
                     <li>
                       <h3>手机应用</h3>
-                      <p>关注微信</p>
+                      <p><img src="src/images/shyumi/footer_4.png" alt=""/><a href="#">关注微信</a></p>
                     </li>
                   </ul>
+                  <div className="wire"><img src="src/images/shyumi/footer_3.png" alt=""/></div>
                   <ul className="footer_center">
                     <li>
                       <img src="src/images/shyumi/WeChat.png" alt=""/>
@@ -362,18 +364,30 @@ var App = React.createClass({
                       <p>安卓下载手机APP</p>
                     </li>
                   </ul>
+                  <div className="wire"><img src="src/images/shyumi/footer_3.png" alt=""/></div>
                   <div className="footer_right">
-                    <p>客服热线（工作时间：9:00-18:00)</p>
+                    <h3>客服热线（工作时间：9:00-18:00)</h3>
                     <h1>400-990-7622</h1>
-                    <div><a><img src="src/images/shyumi/footer_1.png" alt=""/><em>服务邮箱</em></a></div>
-                    <div><a><img src="src/images/shyumi/footer_2.png" alt=""/><em>在线客服</em></a></div>
+                    <p><a><img src="src/images/shyumi/footer_1.png" alt=""/><em>服务邮箱</em></a></p>
+                    <p><a><img src="src/images/shyumi/footer_2.png" alt=""/><em>在线客服</em></a></p>
                   </div>
                 </div>
               </footer>
 
               <div id="dibu">
-                <div className="dibu_bar"></div>
+                <div className="dibu_bar">
+                  <div className="dibu_left">©2016 谨投金融信息服务（上海）有限公司丨沪ICP备16047068号</div>
+                  <ul className="dibu_right">
+                    <li><a href="#"><img src="src/images/shyumi/dibu_1.png" alt=""/></a></li>
+                    <li><a href="#"><img src="src/images/shyumi/dibu_2.png" alt=""/></a></li>
+                    <li><a href="#"><img src="src/images/shyumi/dibu_3.png" alt=""/></a></li>
+                    <li><a href="#"><img src="src/images/shyumi/dibu_4.png" alt=""/></a></li>
+                    <li><a href="#"><img src="src/images/shyumi/dibu_5.png" alt=""/></a></li>
+                  </ul>
+                </div>
               </div>
+
+              <div id="goTop"></div>
 
             </div>
         );

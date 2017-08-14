@@ -1,7 +1,493 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bd8142d-95ea-4564-b633-c7e51b488a4f" name="Default" comment="" />
+    <list default="true" id="6bd8142d-95ea-4564-b633-c7e51b488a4f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/shyumi/u509.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/test.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/shyumi/u437.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/shyumi/u507.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/alex.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/shyumi/u505.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/images/shyumi/u503.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/hevc.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/hevc.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-smil.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-smil.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-filters.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-filters.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/media-attribute.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/media-attribute.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/progress.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/progress.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/text-size-adjust.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/text-size-adjust.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-shapes.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-shapes.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-rel-dns-prefetch.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-rel-dns-prefetch.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-initial-letter.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-initial-letter.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/es5.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/es5.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/speech-synthesis.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/speech-synthesis.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/gamepad.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/gamepad.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/document-evaluate-xpath.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/document-evaluate-xpath.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/shyumi/module6.png" afterPath="$PROJECT_DIR$/src/images/shyumi/module6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mediarecorder.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mediarecorder.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/xhr2.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/xhr2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/internationalization.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/internationalization.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/http-live-streaming.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/http-live-streaming.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-autocomplete-onoff.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-autocomplete-onoff.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-snappoints.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-snappoints.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/rellist.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/rellist.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-read-only-write.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-read-only-write.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/xml-serializer.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/xml-serializer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-rel-preload.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-rel-preload.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/package.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ping.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ping.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/img-naturalwidth-naturalheight.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/img-naturalwidth-naturalheight.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-paged-media.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-paged-media.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/insert-adjacent.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/insert-adjacent.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-initial-value.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-initial-value.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/fulldata-json/data-1.0.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/fulldata-json/data-1.0.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/indeterminate-checkbox.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/indeterminate-checkbox.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/offline-apps.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/offline-apps.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/text-emphasis.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/text-emphasis.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/online-status.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/online-status.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/async-functions.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/async-functions.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/element-closest.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/element-closest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/document-execcommand.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/document-execcommand.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/template-literals.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/template-literals.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-unicode-range.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-unicode-range.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/cors.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/cors.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-module-nomodule.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-module-nomodule.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-img.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-img.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/meter.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/meter.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-descendant-gtgt.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-descendant-gtgt.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jquery/package.json" afterPath="$PROJECT_DIR$/node_modules/jquery/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/rtcpeerconnection.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/rtcpeerconnection.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/wbr-element.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/wbr-element.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-not-sel-list.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-not-sel-list.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-animation.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-animation.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/webp.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/webp.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/element-from-point.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/element-from-point.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-grid.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-grid.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-regions.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-regions.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/canvas.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/canvas.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/urlsearchparams.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/urlsearchparams.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-module-dynamic-import.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-module-dynamic-import.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/flexbox.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/flexbox.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/shadowdom.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/shadowdom.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/publickeypinning.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/publickeypinning.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-display-contents.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-display-contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/touch.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/touch.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-first-letter.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-first-letter.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/video.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/video.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/srcset.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/srcset.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/data.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/webworkers.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/webworkers.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/script-async.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/script-async.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/midi.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/midi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/jpegxr.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/jpegxr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-key.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-key.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-matches-pseudo.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-matches-pseudo.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-text-justify.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-text-justify.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/filereadersync.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/filereadersync.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/wav.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/wav.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/clipboard.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/clipboard.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-logical-props.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-logical-props.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/passive-event-listener.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/passive-event-listener.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/localecompare.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/localecompare.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/classlist.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/classlist.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/aux-click.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/aux-click.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-transitions.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-transitions.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/matchmedia.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/matchmedia.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/pointer-events.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/pointer-events.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-range.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-range.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/resource-timing.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/resource-timing.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/vibration.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/vibration.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/will-change.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/will-change.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/download.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/download.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/apng.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/apng.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/web-app-manifest.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/web-app-manifest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/videotracks.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/videotracks.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-boxshadow.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-boxshadow.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/tls1-1.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/tls1-1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/text-stroke.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/text-stroke.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-motion-paths.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-motion-paths.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/webvtt.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/webvtt.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-repeating-gradients.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-repeating-gradients.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/focusin-focusout-events.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/focusin-focusout-events.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/picture.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/picture.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/sql-storage.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/sql-storage.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/documenthead.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/documenthead.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/channel-messaging.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/channel-messaging.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/dispatchevent.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/dispatchevent.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-line-clamp.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-line-clamp.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/contenteditable.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/contenteditable.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/nav-timing.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/nav-timing.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-datetime.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-datetime.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-deviceadaptation.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-deviceadaptation.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/datalist.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/datalist.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-loading.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-loading.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ruby.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ruby.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-touch-action.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-touch-action.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-writing-mode.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-writing-mode.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/beforeafterprint.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/beforeafterprint.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-nth-child-of.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-nth-child-of.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-number.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-number.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-inputmode.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-inputmode.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-font-rendering-controls.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-font-rendering-controls.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/fulldata-json/data-2.0.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/fulldata-json/data-2.0.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/sni.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/sni.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/getboundingclientrect.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/getboundingclientrect.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-boxdecorationbreak.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-boxdecorationbreak.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/wai-aria.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/wai-aria.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/credential-management.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/credential-management.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/rem.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/rem.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/background-position-x-y.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/background-position-x-y.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/scrollintoview.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/scrollintoview.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/sharedworkers.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/sharedworkers.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/stricttransportsecurity.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/stricttransportsecurity.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/u2f.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/u2f.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/sdch.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/sdch.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/background-img-opts.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/background-img-opts.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/tabindex-attr.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/tabindex-attr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-overflow-anchor.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-overflow-anchor.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/html-media-capture.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/html-media-capture.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-crisp-edges.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-crisp-edges.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-filter-function.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-filter-function.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/iframe-seamless.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/iframe-seamless.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/aac.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/aac.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/viewport-units.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/viewport-units.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/calc.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/calc.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/proximity.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/proximity.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/iframe-srcdoc.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/iframe-srcdoc.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-unicode-bidi.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-unicode-bidi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/dataset.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/dataset.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/payment-request.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/payment-request.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/speech-recognition.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/speech-recognition.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-file-accept.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-file-accept.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/subresource-integrity.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/subresource-integrity.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-exclusions.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-exclusions.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/form-submit-attributes.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/form-submit-attributes.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-text-align-last.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-text-align-last.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-in-out-of-range.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-in-out-of-range.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/namevalue-storage.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/namevalue-storage.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-element-function.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-element-function.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/notifications.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/notifications.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ogg-vorbis.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ogg-vorbis.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/arrow-functions.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/arrow-functions.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/history.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/history.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-first-line.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-first-line.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-clip-path.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-clip-path.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/rest-parameters.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/rest-parameters.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/push-api.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/push-api.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-canvas.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-canvas.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/eme.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/eme.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/fullscreen.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/fullscreen.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/stream.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/stream.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/shyumi/header3.png" afterPath="$PROJECT_DIR$/src/images/shyumi/header3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-getmodifierstate.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-getmodifierstate.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/transforms2d.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/transforms2d.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/shyumi/header4.png" afterPath="$PROJECT_DIR$/src/images/shyumi/header4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/flac.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/flac.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/App.js" afterPath="$PROJECT_DIR$/src/components/App.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/style-scoped.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/style-scoped.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/client-hints-dpr-width-viewport.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/client-hints-dpr-width-viewport.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-default-pseudo.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-default-pseudo.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/queryselector.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/queryselector.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-at-counter-style.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-at-counter-style.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/innertext.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/innertext.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/requestanimationframe.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/requestanimationframe.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/constraint-validation.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/constraint-validation.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ol-reversed.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ol-reversed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-variant-alternates.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-variant-alternates.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-hanging-punctuation.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-hanging-punctuation.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/form-attribute.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/form-attribute.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/heif.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/heif.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-text-spacing.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-text-spacing.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/x-doc-messaging.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/x-doc-messaging.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-number.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-number.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/websockets.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/websockets.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/beacon.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/beacon.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/rel-noreferrer.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/rel-noreferrer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-minlength.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-minlength.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-sel3.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-sel3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/kerning-pairs-ligatures.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/kerning-pairs-ligatures.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/domfocusin-domfocusout-events.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/domfocusin-domfocusout-events.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/const.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/const.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-opacity.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-opacity.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-textshadow.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-textshadow.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-scroll-behavior.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-scroll-behavior.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-masks.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-masks.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/iframe-sandbox.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/iframe-sandbox.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/opus.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/opus.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-charcode.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-charcode.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/resizeobserver.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/resizeobserver.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/imagecapture.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/imagecapture.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-rel-prerender.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-rel-prerender.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/hidden.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/hidden.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-hyphens.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-hyphens.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/web-bluetooth.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/web-bluetooth.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/pagevisibility.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/pagevisibility.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/fetch.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/fetch.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-file-directory.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-file-directory.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/promises.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/promises.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/chacha20-poly1305.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/chacha20-poly1305.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-selection.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-selection.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/alternate-stylesheet.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/alternate-stylesheet.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-event.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-event.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/media-session-api.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/media-session-api.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-mixblendmode.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-mixblendmode.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/shyumi/header1.png" afterPath="$PROJECT_DIR$/src/images/shyumi/header1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-text-indent.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-text-indent.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-fragment.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-fragment.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/textcontent.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/textcontent.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/deviceorientation.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/deviceorientation.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/testfeat.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/testfeat.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-font-stretch.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-font-stretch.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ogv.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ogv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/upgradeinsecurerequests.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/upgradeinsecurerequests.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/brotli.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/brotli.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/woff2.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/woff2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/lazyload.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/lazyload.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-cross-fade.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-cross-fade.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-indeterminate-pseudo.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-indeterminate-pseudo.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ttf.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ttf.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/inline-block.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/inline-block.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-rrggbbaa.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-rrggbbaa.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ambient-light.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ambient-light.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/filereader.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/filereader.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-image-orientation.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-image-orientation.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-cursors-newer.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-cursors-newer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/shyumi/header5.png" afterPath="$PROJECT_DIR$/src/images/shyumi/header5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/once-event-listener.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/once-event-listener.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/let.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/let.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/serviceworkers.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/serviceworkers.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/background-repeat-round-space.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/background-repeat-round-space.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-kerning.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-kerning.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/canvas-text.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/canvas-text.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mutationobserver.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mutationobserver.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/textencoder.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/textencoder.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-focus-within.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-focus-within.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-table.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-table.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-widows-orphans.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-widows-orphans.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-gradients.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-gradients.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-placeholder.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-placeholder.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mpeg4.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mpeg4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/maxlength.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/maxlength.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-html5.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-html5.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-cursors-grab.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-cursors-grab.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-variables.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-variables.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-rebeccapurple.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-rebeccapurple.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/png-alpha.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/png-alpha.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-marker-pseudo.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-marker-pseudo.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/custom-elementsv1.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/custom-elementsv1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/canvas-blending.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/canvas-blending.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-icon-svg.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-icon-svg.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-dir-pseudo.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-dir-pseudo.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/audiotracks.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/audiotracks.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/hardwareconcurrency.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/hardwareconcurrency.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/border-image.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/border-image.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/proxy.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/proxy.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/text-overflow.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/text-overflow.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/intrinsic-width.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/intrinsic-width.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-featurequeries.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-featurequeries.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/battery-status.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/battery-status.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-any-link.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-any-link.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-scrollbar.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-scrollbar.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/netinfo.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/netinfo.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/console-basic.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/console-basic.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/readonly-attr.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/readonly-attr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/stopimmediatepropagation.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/stopimmediatepropagation.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/wasm.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/wasm.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/imports.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/imports.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/intersectionobserver.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/intersectionobserver.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/x-frame-options.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/x-frame-options.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/hashchange.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/hashchange.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/flow-root.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/flow-root.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/xhtmlsmil.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/xhtmlsmil.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/contentsecuritypolicy.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/contentsecuritypolicy.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/node-parentelement.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/node-parentelement.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-placeholder.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-placeholder.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-color.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-color.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-icon-png.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-icon-png.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/cryptography.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/cryptography.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/autofocus.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/autofocus.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/filesystem.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/filesystem.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-search.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-search.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/minmaxwh.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/minmaxwh.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-revert-value.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-revert-value.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-reflections.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-reflections.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/electron-to-chromium/versions.js" afterPath="$PROJECT_DIR$/node_modules/electron-to-chromium/versions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/token-binding.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/token-binding.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-backdrop-filter.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-backdrop-filter.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/shadowdomv1.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/shadowdomv1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/objectrtc.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/objectrtc.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/currentcolor.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/currentcolor.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/forms.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/forms.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/template.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/template.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-fixed.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-fixed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-fonts.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-fonts.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/dommatrix.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/dommatrix.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-apply-rule.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-apply-rule.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-sel2.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-sel2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/script-defer.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/script-defer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-media-scripting.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-media-scripting.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/audio-api.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/audio-api.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mathml.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mathml.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/pointerlock.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/pointerlock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/atob-btoa.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/atob-btoa.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-cursors.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-cursors.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-size-adjust.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-size-adjust.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/web-animation.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/web-animation.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/fieldset-disabled.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/fieldset-disabled.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/menu.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/menu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-has.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-has.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/electron-to-chromium/full-versions.js" afterPath="$PROJECT_DIR$/node_modules/electron-to-chromium/full-versions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-file-multiple.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-file-multiple.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-gencontent.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-gencontent.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-case-insensitive.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-case-insensitive.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/webm.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/webm.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/referrer-policy.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/referrer-policy.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ac3-ec3.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ac3-ec3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-media-resolution.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-media-resolution.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mediasource.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mediasource.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/offscreencanvas.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/offscreencanvas.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/datauri.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/datauri.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/spdy.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/spdy.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/matchesselector.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/matchesselector.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/shyumi/header2.png" afterPath="$PROJECT_DIR$/src/images/shyumi/header2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/page-transition-events.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/page-transition-events.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-appearance.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-appearance.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/text-decoration.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/text-decoration.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/indexeddb.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/indexeddb.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/app.scss" afterPath="$PROJECT_DIR$/src/styles/app.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/document-currentscript.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/document-currentscript.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-mediaqueries.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-mediaqueries.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-rel-prefetch.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-rel-prefetch.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/pointer.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/pointer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/transforms3d.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/transforms3d.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-backgroundblendmode.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-backgroundblendmode.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vendor/home.js" afterPath="$PROJECT_DIR$/src/vendor/home.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/multibackgrounds.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/multibackgrounds.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-unset-value.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-unset-value.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-generators.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-generators.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-email-tel-url.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-email-tel-url.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/jpeg2000.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/jpeg2000.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/border-radius.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/border-radius.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/rel-noopener.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/rel-noopener.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/shyumi_project.iml" afterPath="$PROJECT_DIR$/.idea/shyumi_project.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-placeholder-shown.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-placeholder-shown.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-smooth.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-smooth.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/json.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/json.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/bloburls.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/bloburls.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-feature.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-feature.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/devicepixelratio.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/devicepixelratio.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/dialog.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/dialog.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/getelementsbyclassname.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/getelementsbyclassname.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/dragndrop.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/dragndrop.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ime.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ime.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-html.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-html.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-page-break.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-page-break.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/webgl.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/webgl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/getcomputedstyle.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/getcomputedstyle.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ch-unit.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/ch-unit.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/typedarrays.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/typedarrays.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-boxsizing.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-boxsizing.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/word-break.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/word-break.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/webvr.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/webvr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/same-site-cookie-attribute.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/same-site-cookie-attribute.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/webgl2.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/webgl2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/comparedocumentposition.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/comparedocumentposition.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-class.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-class.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/blobbuilder.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/blobbuilder.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-caret-color.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-caret-color.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/object-fit.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/object-fit.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/node-contains.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/node-contains.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-image-set.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-image-set.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/eventsource.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/eventsource.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/pad-start-end.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/pad-start-end.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/fileapi.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/fileapi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-letter-spacing.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-letter-spacing.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/user-timing.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/user-timing.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/shyumi/module5.png" afterPath="$PROJECT_DIR$/src/images/shyumi/module5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/customevent.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/customevent.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-css.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-css.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-media-interaction.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-media-interaction.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mp3.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mp3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/tls1-3.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/tls1-3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/object-observe.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/object-observe.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/dom-manip-convenience.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/dom-manip-convenience.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-colors.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-colors.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/selection-api.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/selection-api.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/getrandomvalues.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/getrandomvalues.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/web-share.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/web-share.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/fontface.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/fontface.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-hyphenate.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-hyphenate.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-filters.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-filters.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-conic-gradients.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-conic-gradients.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/multicolumn.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/multicolumn.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/indexeddb2.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/indexeddb2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/electron-to-chromium/package.json" afterPath="$PROJECT_DIR$/node_modules/electron-to-chromium/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/xhtml.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/xhtml.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/html5semantic.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/html5semantic.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mutation-events.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mutation-events.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/geolocation.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/geolocation.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-tabsize.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-tabsize.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/setimmediate.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/setimmediate.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/requestidlecallback.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/requestidlecallback.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-pattern.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-pattern.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mediacapture-fromelement.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/mediacapture-fromelement.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-counters.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-counters.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/broadcastchannel.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/broadcastchannel.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/background-attachment.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/background-attachment.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/woff.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/woff.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/audio.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/audio.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/domcontentloaded.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/domcontentloaded.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/childnode-remove.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/childnode-remove.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/screen-orientation.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/screen-orientation.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-attr.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-attr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-supports-api.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-supports-api.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/insertadjacenthtml.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/insertadjacenthtml.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/url.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/url.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/shyumi/module4.png" afterPath="$PROJECT_DIR$/src/images/shyumi/module4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/form-validation.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/form-validation.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/tls1-2.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/tls1-2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-which.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-which.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-module.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-module.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-optional-pseudo.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-optional-pseudo.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/addeventlistener.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/addeventlistener.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/dom-range.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/dom-range.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-background-offsets.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-background-offsets.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/wordwrap.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/wordwrap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/outline.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/outline.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-namespaces.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-namespaces.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-rel-preconnect.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-rel-preconnect.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/permissions-api.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/permissions-api.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-text-orientation.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-text-orientation.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/contentsecuritypolicy2.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/contentsecuritypolicy2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/eot.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/eot.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/details.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/details.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/sha-2.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/sha-2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-zoom.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-zoom.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/electron-to-chromium/full-chromium-versions.js" afterPath="$PROJECT_DIR$/node_modules/electron-to-chromium/full-chromium-versions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-touch-action-2.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-touch-action-2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-all.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-all.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/spellcheck-attribute.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/spellcheck-attribute.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/asmjs.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/asmjs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/http2.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/http2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-location.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-location.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-sticky.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-sticky.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/use-strict.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/use-strict.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/scrollintoviewifneeded.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/scrollintoviewifneeded.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-code.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-code.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/registerprotocolhandler.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/registerprotocolhandler.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-containment.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-containment.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/high-resolution-time.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/high-resolution-time.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-resize.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-resize.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/custom-elements.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/custom-elements.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/user-select-none.json" afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/user-select-none.json" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,76 +503,62 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="38" />
+            <state relative-caret-position="150">
+              <caret line="6" column="65" lean-forward="true" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="324" column="42" lean-forward="false" selection-start-line="324" selection-start-column="32" selection-end-line="324" selection-end-column="42" />
+            <state relative-caret-position="-128">
+              <caret line="261" column="51" lean-forward="true" selection-start-line="261" selection-start-column="51" selection-end-line="261" selection-end-column="51" />
               <folding>
                 <element signature="e#15#41#0" expanded="true" />
-                <element signature="e#4498#6211#0" expanded="false" />
-                <element signature="e#6230#7468#0" expanded="false" />
-                <element signature="e#7487#9872#0" expanded="false" />
-                <element signature="e#9891#11769#0" expanded="false" />
-                <element signature="e#11788#13664#0" expanded="false" />
-                <element signature="e#13683#15569#0" expanded="false" />
-                <element signature="e#15588#16815#0" expanded="false" />
-                <element signature="e#16834#18281#0" expanded="false" />
-                <element signature="e#18466#18670#0" expanded="false" />
-                <element signature="e#18691#18859#0" expanded="false" />
-                <element signature="e#18880#19048#0" expanded="false" />
-                <element signature="e#19069#19169#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/styles/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="911" column="20" lean-forward="false" selection-start-line="911" selection-start-column="20" selection-end-line="911" selection-end-column="20" />
+            <state relative-caret-position="644">
+              <caret line="901" column="26" lean-forward="false" selection-start-line="901" selection-start-column="26" selection-end-line="901" selection-end-column="26" />
               <folding>
-                <element signature="e#598#3085#0" expanded="false" />
-                <element signature="e#3093#4220#0" expanded="false" />
-                <element signature="e#4232#6642#0" expanded="false" />
-                <element signature="e#6654#22256#0" expanded="false" />
-                <element signature="e#7015#8196#0" expanded="false" />
-                <element signature="e#8222#8774#0" expanded="false" />
-                <element signature="e#8963#12207#0" expanded="false" />
-                <element signature="e#9082#9492#0" expanded="false" />
-                <element signature="e#9518#10706#0" expanded="false" />
-                <element signature="e#10734#11877#0" expanded="false" />
-                <element signature="e#11904#12197#0" expanded="false" />
-                <element signature="e#12388#12956#0" expanded="false" />
-                <element signature="e#12980#14970#0" expanded="false" />
-                <element signature="e#14993#15100#0" expanded="false" />
-                <element signature="e#15115#15222#0" expanded="false" />
-                <element signature="e#15237#15344#0" expanded="false" />
-                <element signature="e#15368#19678#0" expanded="false" />
-                <element signature="e#19693#21340#0" expanded="false" />
-                <element signature="e#20143#20803#0" expanded="false" />
-                <element signature="e#20836#21332#0" expanded="false" />
-                <element signature="e#21355#22246#0" expanded="false" />
-                <element signature="e#22494#22660#0" expanded="false" />
+                <element signature="e#598#3080#0" expanded="false" />
+                <element signature="e#3088#4215#0" expanded="false" />
+                <element signature="e#4227#6629#0" expanded="false" />
+                <element signature="e#6849#8769#0" expanded="false" />
+                <element signature="e#7002#8183#0" expanded="false" />
+                <element signature="e#8209#8761#0" expanded="false" />
+                <element signature="e#8787#12198#0" expanded="false" />
+                <element signature="e#9501#10689#0" expanded="false" />
+                <element signature="e#11887#12180#0" expanded="false" />
+                <element signature="e#12216#15121#0" expanded="false" />
+                <element signature="e#12371#12939#0" expanded="false" />
+                <element signature="e#15136#15243#0" expanded="false" />
+                <element signature="e#15258#15365#0" expanded="false" />
+                <element signature="e#15380#15487#0" expanded="false" />
+                <element signature="e#15511#19852#0" expanded="false" />
+                <element signature="e#19867#21556#0" expanded="false" />
+                <element signature="e#20213#21028#0" expanded="false" />
+                <element signature="e#21051#21548#0" expanded="false" />
+                <element signature="e#22520#24367#0" expanded="false" />
+                <element signature="e#24377#25021#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vendor/home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="752">
-              <caret line="49" column="6" lean-forward="false" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -102,17 +574,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>z</find>
-      <find>z-index</find>
-      <find>web</find>
-      <find>phone</find>
-      <find>login</find>
-      <find>reg</find>
-      <find>#f7f7f7</find>
-      <find>#333</find>
-      <find>line-height:80px;</find>
-      <find>$moduleWidth</find>
-      <find>1280px</find>
       <find>.web</find>
       <find>share</find>
       <find>#E60012</find>
@@ -121,23 +582,50 @@
       <find>Newbie_center_invest</find>
       <find>series_right_article</find>
       <find>progress</find>
+      <find>module6.png</find>
+      <find>module7_right</find>
+      <find>hot_product_name</find>
+      <find>module4_right_btn</find>
+      <find>btn</find>
+      <find>hot_product_btn</find>
+      <find>active</find>
+      <find>module4_right_article</find>
+      <find>module5.png</find>
+      <find>module4.png</find>
+      <find>red_belt</find>
+      <find>src/images/shyumi</find>
+      <find>layout</find>
+      <find>prev</find>
+      <find>header</find>
+      <find>$headerHeight</find>
+      <find>ios_android</find>
+      <find>setion_content</find>
+      <find>footer_left</find>
+      <find>module8</find>
+      <find>/src/images/shyumi</find>
+      <find>goTop</find>
     </findStrings>
     <replaceStrings>
       <replace>$headerFontColor</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/src/entry.js" />
         <option value="$PROJECT_DIR$/src/styles/index.css" />
         <option value="$PROJECT_DIR$/src/vendor/index.js" />
-        <option value="$PROJECT_DIR$/src/vendor/home.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/build/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/styles/app.scss" />
+        <option value="$PROJECT_DIR$/src/vendor/home.js" />
       </list>
     </option>
   </component>
@@ -157,11 +645,12 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-98" />
-    <option name="y" value="-11" />
-    <option name="width" value="1286" />
-    <option name="height" value="683" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1928" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -179,6 +668,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -195,41 +685,34 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="shyumi_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shyumi_project" type="462c0819:PsiDirectoryNode" />
+              <item name="shyumi_project" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="shyumi_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shyumi_project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shyumi_project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="build" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="shyumi_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shyumi_project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="shyumi_project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="shyumi_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shyumi_project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shyumi_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shyumi_project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="shyumi_project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,6 +722,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -271,33 +755,45 @@
       <updated>1502269838725</updated>
       <workItem from="1502269839896" duration="3949000" />
       <workItem from="1502326579732" duration="27773000" />
-      <workItem from="1502414226873" duration="28713000" />
+      <workItem from="1502414226873" duration="29485000" />
+      <workItem from="1502673084527" duration="11435000" />
+      <workItem from="1502689924318" duration="7527000" />
+      <workItem from="1502700890945" duration="83000" />
+      <workItem from="1502701032873" duration="211000" />
+      <workItem from="1502701287033" duration="948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60435000" />
+    <option name="totallyTimeSpent" value="80978000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="1048" extended-state="6" />
-    <editor active="true" />
+    <frame x="-4" y="-4" width="1928" height="1048" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13119073" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13382508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13539445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,11 +804,317 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/npm-debug.log" />
+    <entry file="file://$PROJECT_DIR$/src/styles/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="901" column="26" lean-forward="false" selection-start-line="901" selection-start-column="26" selection-end-line="901" selection-end-column="26" />
+          <folding>
+            <element signature="e#598#3080#0" expanded="false" />
+            <element signature="e#3088#4215#0" expanded="false" />
+            <element signature="e#4227#6629#0" expanded="false" />
+            <element signature="e#6849#8769#0" expanded="false" />
+            <element signature="e#7002#8183#0" expanded="false" />
+            <element signature="e#8209#8761#0" expanded="false" />
+            <element signature="e#8787#12198#0" expanded="false" />
+            <element signature="e#9501#10689#0" expanded="false" />
+            <element signature="e#11887#12180#0" expanded="false" />
+            <element signature="e#12216#15121#0" expanded="false" />
+            <element signature="e#12371#12939#0" expanded="false" />
+            <element signature="e#15136#15243#0" expanded="false" />
+            <element signature="e#15258#15365#0" expanded="false" />
+            <element signature="e#15380#15487#0" expanded="false" />
+            <element signature="e#15511#19852#0" expanded="false" />
+            <element signature="e#19867#21556#0" expanded="false" />
+            <element signature="e#20213#21028#0" expanded="false" />
+            <element signature="e#21051#21548#0" expanded="false" />
+            <element signature="e#22520#24367#0" expanded="false" />
+            <element signature="e#24377#25021#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="378" column="49" lean-forward="false" selection-start-line="378" selection-start-column="49" selection-end-line="378" selection-end-column="49" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="65" lean-forward="true" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/npm-debug.log" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="901" column="26" lean-forward="false" selection-start-line="901" selection-start-column="26" selection-end-line="901" selection-end-column="26" />
+          <folding>
+            <element signature="e#598#3080#0" expanded="false" />
+            <element signature="e#3088#4215#0" expanded="false" />
+            <element signature="e#4227#6629#0" expanded="false" />
+            <element signature="e#6849#8769#0" expanded="false" />
+            <element signature="e#7002#8183#0" expanded="false" />
+            <element signature="e#8209#8761#0" expanded="false" />
+            <element signature="e#8787#12198#0" expanded="false" />
+            <element signature="e#9501#10689#0" expanded="false" />
+            <element signature="e#11887#12180#0" expanded="false" />
+            <element signature="e#12216#15121#0" expanded="false" />
+            <element signature="e#12371#12939#0" expanded="false" />
+            <element signature="e#15136#15243#0" expanded="false" />
+            <element signature="e#15258#15365#0" expanded="false" />
+            <element signature="e#15380#15487#0" expanded="false" />
+            <element signature="e#15511#19852#0" expanded="false" />
+            <element signature="e#19867#21556#0" expanded="false" />
+            <element signature="e#20213#21028#0" expanded="false" />
+            <element signature="e#21051#21548#0" expanded="false" />
+            <element signature="e#22520#24367#0" expanded="false" />
+            <element signature="e#24377#25021#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7144">
+          <caret line="378" column="49" lean-forward="false" selection-start-line="378" selection-start-column="49" selection-end-line="378" selection-end-column="49" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7391">
+          <caret line="389" column="30" lean-forward="false" selection-start-line="389" selection-start-column="30" selection-end-line="389" selection-end-column="30" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="901" column="26" lean-forward="true" selection-start-line="901" selection-start-column="26" selection-end-line="901" selection-end-column="26" />
+          <folding>
+            <element signature="e#598#3080#0" expanded="false" />
+            <element signature="e#3088#4215#0" expanded="false" />
+            <element signature="e#4227#6629#0" expanded="false" />
+            <element signature="e#6849#8769#0" expanded="false" />
+            <element signature="e#7002#8183#0" expanded="false" />
+            <element signature="e#8209#8761#0" expanded="false" />
+            <element signature="e#8787#12198#0" expanded="false" />
+            <element signature="e#9501#10689#0" expanded="false" />
+            <element signature="e#11887#12180#0" expanded="false" />
+            <element signature="e#12216#15121#0" expanded="false" />
+            <element signature="e#12371#12939#0" expanded="false" />
+            <element signature="e#15136#15243#0" expanded="false" />
+            <element signature="e#15258#15365#0" expanded="false" />
+            <element signature="e#15380#15487#0" expanded="false" />
+            <element signature="e#15511#19852#0" expanded="false" />
+            <element signature="e#19867#21556#0" expanded="false" />
+            <element signature="e#20213#21028#0" expanded="false" />
+            <element signature="e#21051#21548#0" expanded="false" />
+            <element signature="e#22520#24367#0" expanded="false" />
+            <element signature="e#24377#25021#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7391">
+          <caret line="389" column="30" lean-forward="false" selection-start-line="389" selection-start-column="30" selection-end-line="389" selection-end-column="30" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="901" column="26" lean-forward="true" selection-start-line="901" selection-start-column="26" selection-end-line="901" selection-end-column="26" />
+          <folding>
+            <element signature="e#598#3080#0" expanded="false" />
+            <element signature="e#3088#4215#0" expanded="false" />
+            <element signature="e#4227#6629#0" expanded="false" />
+            <element signature="e#6849#8769#0" expanded="false" />
+            <element signature="e#7002#8183#0" expanded="false" />
+            <element signature="e#8209#8761#0" expanded="false" />
+            <element signature="e#8787#12198#0" expanded="false" />
+            <element signature="e#9501#10689#0" expanded="false" />
+            <element signature="e#11887#12180#0" expanded="false" />
+            <element signature="e#12216#15121#0" expanded="false" />
+            <element signature="e#12371#12939#0" expanded="false" />
+            <element signature="e#15136#15243#0" expanded="false" />
+            <element signature="e#15258#15365#0" expanded="false" />
+            <element signature="e#15380#15487#0" expanded="false" />
+            <element signature="e#15511#19852#0" expanded="false" />
+            <element signature="e#19867#21556#0" expanded="false" />
+            <element signature="e#20213#21028#0" expanded="false" />
+            <element signature="e#21051#21548#0" expanded="false" />
+            <element signature="e#22520#24367#0" expanded="false" />
+            <element signature="e#24377#25021#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8037">
+          <caret line="423" column="24" lean-forward="false" selection-start-line="423" selection-start-column="24" selection-end-line="423" selection-end-column="24" />
+          <folding>
+            <element signature="e#598#3080#0" expanded="false" />
+            <element signature="e#3088#4215#0" expanded="false" />
+            <element signature="e#4227#6629#0" expanded="false" />
+            <element signature="e#6849#8769#0" expanded="false" />
+            <element signature="e#7002#8183#0" expanded="false" />
+            <element signature="e#8209#8761#0" expanded="false" />
+            <element signature="e#8787#12198#0" expanded="false" />
+            <element signature="e#9501#10689#0" expanded="false" />
+            <element signature="e#11887#12180#0" expanded="false" />
+            <element signature="e#12216#15121#0" expanded="false" />
+            <element signature="e#12371#12939#0" expanded="false" />
+            <element signature="e#15136#15243#0" expanded="false" />
+            <element signature="e#15258#15365#0" expanded="false" />
+            <element signature="e#15380#15487#0" expanded="false" />
+            <element signature="e#15511#19852#0" expanded="false" />
+            <element signature="e#19867#21556#0" expanded="false" />
+            <element signature="e#20213#21028#0" expanded="false" />
+            <element signature="e#21051#21548#0" expanded="false" />
+            <element signature="e#22520#24367#0" expanded="false" />
+            <element signature="e#24377#25021#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="80" column="31" lean-forward="false" selection-start-line="80" selection-start-column="31" selection-end-line="80" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6156">
+          <caret line="324" column="42" lean-forward="false" selection-start-line="324" selection-start-column="32" selection-end-line="324" selection-end-column="42" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="6" lean-forward="false" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17309">
+          <caret line="911" column="20" lean-forward="false" selection-start-line="911" selection-start-column="20" selection-end-line="911" selection-end-column="20" />
+          <folding>
+            <element signature="e#598#3080#0" expanded="false" />
+            <element signature="e#3088#4215#0" expanded="false" />
+            <element signature="e#4227#6629#0" expanded="false" />
+            <element signature="e#6849#8769#0" expanded="false" />
+            <element signature="e#7002#8183#0" expanded="false" />
+            <element signature="e#8209#8761#0" expanded="false" />
+            <element signature="e#8787#12198#0" expanded="false" />
+            <element signature="e#9501#10689#0" expanded="false" />
+            <element signature="e#11887#12180#0" expanded="false" />
+            <element signature="e#12216#15121#0" expanded="false" />
+            <element signature="e#12371#12939#0" expanded="false" />
+            <element signature="e#15136#15243#0" expanded="false" />
+            <element signature="e#15258#15365#0" expanded="false" />
+            <element signature="e#15380#15487#0" expanded="false" />
+            <element signature="e#15511#19852#0" expanded="false" />
+            <element signature="e#19867#21556#0" expanded="false" />
+            <element signature="e#20213#21028#0" expanded="false" />
+            <element signature="e#21051#21548#0" expanded="false" />
+            <element signature="e#22520#24367#0" expanded="false" />
+            <element signature="e#24377#25021#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -327,18 +1129,6 @@
           <caret line="18" column="49" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="49" />
           <folding>
             <element signature="e#15#41#0" expanded="true" />
-            <element signature="e#4498#6211#0" expanded="false" />
-            <element signature="e#6230#7468#0" expanded="false" />
-            <element signature="e#7487#9872#0" expanded="false" />
-            <element signature="e#9891#11769#0" expanded="false" />
-            <element signature="e#11788#13664#0" expanded="false" />
-            <element signature="e#13683#15569#0" expanded="false" />
-            <element signature="e#15588#16815#0" expanded="false" />
-            <element signature="e#16834#18281#0" expanded="false" />
-            <element signature="e#18466#18670#0" expanded="false" />
-            <element signature="e#18691#18859#0" expanded="false" />
-            <element signature="e#18880#19048#0" expanded="false" />
-            <element signature="e#19069#19169#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -347,7 +1137,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="931">
           <caret line="49" column="6" lean-forward="true" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -356,28 +1145,26 @@
         <state relative-caret-position="532">
           <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="18" />
           <folding>
-            <element signature="e#598#3085#0" expanded="false" />
-            <element signature="e#3093#4220#0" expanded="false" />
-            <element signature="e#4232#6642#0" expanded="false" />
-            <element signature="e#6654#22256#0" expanded="false" />
-            <element signature="e#7015#8196#0" expanded="false" />
-            <element signature="e#8222#8774#0" expanded="false" />
-            <element signature="e#8963#12207#0" expanded="false" />
-            <element signature="e#9082#9492#0" expanded="false" />
-            <element signature="e#9518#10706#0" expanded="false" />
-            <element signature="e#10734#11877#0" expanded="false" />
-            <element signature="e#11904#12197#0" expanded="false" />
-            <element signature="e#12388#12956#0" expanded="false" />
-            <element signature="e#12980#14970#0" expanded="false" />
-            <element signature="e#14993#15100#0" expanded="false" />
-            <element signature="e#15115#15222#0" expanded="false" />
-            <element signature="e#15237#15344#0" expanded="false" />
-            <element signature="e#15368#19678#0" expanded="false" />
-            <element signature="e#19693#21340#0" expanded="false" />
-            <element signature="e#20143#20803#0" expanded="false" />
-            <element signature="e#20836#21332#0" expanded="false" />
-            <element signature="e#21355#22246#0" expanded="false" />
-            <element signature="e#22494#22660#0" expanded="false" />
+            <element signature="e#598#3080#0" expanded="false" />
+            <element signature="e#3088#4215#0" expanded="false" />
+            <element signature="e#4227#6629#0" expanded="false" />
+            <element signature="e#6849#8769#0" expanded="false" />
+            <element signature="e#7002#8183#0" expanded="false" />
+            <element signature="e#8209#8761#0" expanded="false" />
+            <element signature="e#8787#12198#0" expanded="false" />
+            <element signature="e#9501#10689#0" expanded="false" />
+            <element signature="e#11887#12180#0" expanded="false" />
+            <element signature="e#12216#15121#0" expanded="false" />
+            <element signature="e#12371#12939#0" expanded="false" />
+            <element signature="e#15136#15243#0" expanded="false" />
+            <element signature="e#15258#15365#0" expanded="false" />
+            <element signature="e#15380#15487#0" expanded="false" />
+            <element signature="e#15511#19852#0" expanded="false" />
+            <element signature="e#19867#21556#0" expanded="false" />
+            <element signature="e#20213#21028#0" expanded="false" />
+            <element signature="e#21051#21548#0" expanded="false" />
+            <element signature="e#22520#24367#0" expanded="false" />
+            <element signature="e#24377#25021#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -396,18 +1183,6 @@
           <caret line="20" column="50" lean-forward="false" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
           <folding>
             <element signature="e#15#41#0" expanded="true" />
-            <element signature="e#4498#6211#0" expanded="false" />
-            <element signature="e#6230#7468#0" expanded="false" />
-            <element signature="e#7487#9872#0" expanded="false" />
-            <element signature="e#9891#11769#0" expanded="false" />
-            <element signature="e#11788#13664#0" expanded="false" />
-            <element signature="e#13683#15569#0" expanded="false" />
-            <element signature="e#15588#16815#0" expanded="false" />
-            <element signature="e#16834#18281#0" expanded="false" />
-            <element signature="e#18466#18670#0" expanded="false" />
-            <element signature="e#18691#18859#0" expanded="false" />
-            <element signature="e#18880#19048#0" expanded="false" />
-            <element signature="e#19069#19169#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -417,74 +1192,35 @@
         <state relative-caret-position="703">
           <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
           <folding>
-            <element signature="e#598#3085#0" expanded="false" />
-            <element signature="e#3093#4220#0" expanded="false" />
-            <element signature="e#4232#6642#0" expanded="false" />
-            <element signature="e#6654#22256#0" expanded="false" />
-            <element signature="e#7015#8196#0" expanded="false" />
-            <element signature="e#8222#8774#0" expanded="false" />
-            <element signature="e#8963#12207#0" expanded="false" />
-            <element signature="e#9082#9492#0" expanded="false" />
-            <element signature="e#9518#10706#0" expanded="false" />
-            <element signature="e#10734#11877#0" expanded="false" />
-            <element signature="e#11904#12197#0" expanded="false" />
-            <element signature="e#12388#12956#0" expanded="false" />
-            <element signature="e#12980#14970#0" expanded="false" />
-            <element signature="e#14993#15100#0" expanded="false" />
-            <element signature="e#15115#15222#0" expanded="false" />
-            <element signature="e#15237#15344#0" expanded="false" />
-            <element signature="e#15368#19678#0" expanded="false" />
-            <element signature="e#19693#21340#0" expanded="false" />
-            <element signature="e#20143#20803#0" expanded="false" />
-            <element signature="e#20836#21332#0" expanded="false" />
-            <element signature="e#21355#22246#0" expanded="false" />
-            <element signature="e#22494#22660#0" expanded="false" />
+            <element signature="e#598#3080#0" expanded="false" />
+            <element signature="e#3088#4215#0" expanded="false" />
+            <element signature="e#4227#6629#0" expanded="false" />
+            <element signature="e#6849#8769#0" expanded="false" />
+            <element signature="e#7002#8183#0" expanded="false" />
+            <element signature="e#8209#8761#0" expanded="false" />
+            <element signature="e#8787#12198#0" expanded="false" />
+            <element signature="e#9501#10689#0" expanded="false" />
+            <element signature="e#11887#12180#0" expanded="false" />
+            <element signature="e#12216#15121#0" expanded="false" />
+            <element signature="e#12371#12939#0" expanded="false" />
+            <element signature="e#15136#15243#0" expanded="false" />
+            <element signature="e#15258#15365#0" expanded="false" />
+            <element signature="e#15380#15487#0" expanded="false" />
+            <element signature="e#15511#19852#0" expanded="false" />
+            <element signature="e#19867#21556#0" expanded="false" />
+            <element signature="e#20213#21028#0" expanded="false" />
+            <element signature="e#21051#21548#0" expanded="false" />
+            <element signature="e#22520#24367#0" expanded="false" />
+            <element signature="e#24377#25021#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/images/yeoman.png" />
-    <entry file="file://$PROJECT_DIR$/data/test.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test.json" />
     <entry file="file://$PROJECT_DIR$/src/vendor/jquery.js" />
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/styles/swipe.css" />
     <entry file="file://$PROJECT_DIR$/src/vendor/swipe.js" />
-    <entry file="file://$PROJECT_DIR$/src/vendor/jquery-1.11.3.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/entry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/styles/index.css" />
     <entry file="file://$PROJECT_DIR$/src/vendor/index.js" />
     <entry file="file://$PROJECT_DIR$/src/images/shyumi/header5.png">
@@ -492,80 +1228,110 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/jquery-1.11.3.min.js">
+    <entry file="file://$PROJECT_DIR$/build/jquery-1.11.3.min.js" />
+    <entry file="file://$PROJECT_DIR$/src/entry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/build/bundle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="-8398">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vendor/home.js">
+    <entry file="file://$PROJECT_DIR$/build/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="752">
-          <caret line="49" column="6" lean-forward="false" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="447">
+          <caret line="0" column="17960" lean-forward="false" selection-start-line="0" selection-start-column="17960" selection-end-line="0" selection-end-column="17960" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App.js">
+    <entry file="file://$PROJECT_DIR$/src/vendor/jquery-1.11.3.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="324" column="42" lean-forward="false" selection-start-line="324" selection-start-column="32" selection-end-line="324" selection-end-column="42" />
-          <folding>
-            <element signature="e#15#41#0" expanded="true" />
-            <element signature="e#4498#6211#0" expanded="false" />
-            <element signature="e#6230#7468#0" expanded="false" />
-            <element signature="e#7487#9872#0" expanded="false" />
-            <element signature="e#9891#11769#0" expanded="false" />
-            <element signature="e#11788#13664#0" expanded="false" />
-            <element signature="e#13683#15569#0" expanded="false" />
-            <element signature="e#15588#16815#0" expanded="false" />
-            <element signature="e#16834#18281#0" expanded="false" />
-            <element signature="e#18466#18670#0" expanded="false" />
-            <element signature="e#18691#18859#0" expanded="false" />
-            <element signature="e#18880#19048#0" expanded="false" />
-            <element signature="e#19069#19169#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/styles/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="911" column="20" lean-forward="false" selection-start-line="911" selection-start-column="20" selection-end-line="911" selection-end-column="20" />
+        <state relative-caret-position="644">
+          <caret line="901" column="26" lean-forward="false" selection-start-line="901" selection-start-column="26" selection-end-line="901" selection-end-column="26" />
           <folding>
-            <element signature="e#598#3085#0" expanded="false" />
-            <element signature="e#3093#4220#0" expanded="false" />
-            <element signature="e#4232#6642#0" expanded="false" />
-            <element signature="e#6654#22256#0" expanded="false" />
-            <element signature="e#7015#8196#0" expanded="false" />
-            <element signature="e#8222#8774#0" expanded="false" />
-            <element signature="e#8963#12207#0" expanded="false" />
-            <element signature="e#9082#9492#0" expanded="false" />
-            <element signature="e#9518#10706#0" expanded="false" />
-            <element signature="e#10734#11877#0" expanded="false" />
-            <element signature="e#11904#12197#0" expanded="false" />
-            <element signature="e#12388#12956#0" expanded="false" />
-            <element signature="e#12980#14970#0" expanded="false" />
-            <element signature="e#14993#15100#0" expanded="false" />
-            <element signature="e#15115#15222#0" expanded="false" />
-            <element signature="e#15237#15344#0" expanded="false" />
-            <element signature="e#15368#19678#0" expanded="false" />
-            <element signature="e#19693#21340#0" expanded="false" />
-            <element signature="e#20143#20803#0" expanded="false" />
-            <element signature="e#20836#21332#0" expanded="false" />
-            <element signature="e#21355#22246#0" expanded="false" />
-            <element signature="e#22494#22660#0" expanded="false" />
+            <element signature="e#598#3080#0" expanded="false" />
+            <element signature="e#3088#4215#0" expanded="false" />
+            <element signature="e#4227#6629#0" expanded="false" />
+            <element signature="e#6849#8769#0" expanded="false" />
+            <element signature="e#7002#8183#0" expanded="false" />
+            <element signature="e#8209#8761#0" expanded="false" />
+            <element signature="e#8787#12198#0" expanded="false" />
+            <element signature="e#9501#10689#0" expanded="false" />
+            <element signature="e#11887#12180#0" expanded="false" />
+            <element signature="e#12216#15121#0" expanded="false" />
+            <element signature="e#12371#12939#0" expanded="false" />
+            <element signature="e#15136#15243#0" expanded="false" />
+            <element signature="e#15258#15365#0" expanded="false" />
+            <element signature="e#15380#15487#0" expanded="false" />
+            <element signature="e#15511#19852#0" expanded="false" />
+            <element signature="e#19867#21556#0" expanded="false" />
+            <element signature="e#20213#21028#0" expanded="false" />
+            <element signature="e#21051#21548#0" expanded="false" />
+            <element signature="e#22520#24367#0" expanded="false" />
+            <element signature="e#24377#25021#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="261" column="51" lean-forward="true" selection-start-line="261" selection-start-column="51" selection-end-line="261" selection-end-column="51" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/npm-debug.log" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="65" lean-forward="true" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="108" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
